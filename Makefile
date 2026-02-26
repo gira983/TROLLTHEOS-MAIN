@@ -1,4 +1,3 @@
-export THEOS = /var/theos
 ARCHS := arm64
 TARGET := iphone:clang:16.5:14.0
 
